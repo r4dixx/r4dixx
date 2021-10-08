@@ -2,7 +2,7 @@
 
 I’m a self-taught, full remote developer involved in the Android community
 
-[![r4dixx's github stats](https://github-readme-stats.vercel.app/api?username=r4dixx&theme=blue-green)](https://github.com/r4dixx)
+[![r4dixx's github stats](https://github-readme-stats.vercel.app/api?username=r4dixx&theme=darcula)](https://github.com/r4dixx)
 
 Most of my activity is on private repos on [gitlab](https://gitlab.com/asikel) 😉
 
