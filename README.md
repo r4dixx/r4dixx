@@ -1,16 +1,16 @@
-### Hi there 👋
+### Howdy 🤠
 
-<!--
-**r4dixx/r4dixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a self-taught, full remote developer involved in the Android community
 
-Here are some ideas to get you started:
+[![r4dixx's github stats](https://github-readme-stats.vercel.app/api?username=r4dixx&theme=blue-green)](https://github.com/r4dixx)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my activity is on private repos on [gitlab](https://gitlab.com/asikel) 😉
+
+**Give me a shout!**
+
+- 🐦 [@r4dixx](https://twitter.com/r4dixx)
+- 💼 [in/r4dixx](https://linkedin.com/in/r4dixx)
+
+Also here's [my resume](https://ceev.io/@r4dixx) 👀
+
+More on my [personal website](https://r4dixx.github.io/)
