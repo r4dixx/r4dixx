@@ -10,5 +10,5 @@ Most of my activity is on private repos here and on [gitlab](https://gitlab.com/
 
 **Give me a shout!**
 
-- 🐦 [@r4dixx](https://twitter.com/r4dixx)
+- 𝕏 [@r4dixx](https://x.com/r4dixx)
 - 💼 [in/r4dixx](https://linkedin.com/in/r4dixx)
